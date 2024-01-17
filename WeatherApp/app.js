@@ -16,6 +16,7 @@ async function search(e) {
     if (searchValue === "") {
         alert("Boş bırakmayın");
     } else {
+        console.log('hello')
         try {
             // Mevcut içeriği temizle
             clearInfoSection();
