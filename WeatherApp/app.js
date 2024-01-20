@@ -89,3 +89,5 @@ function takeWeather(weather) {
     weatherClass.style.position = "relative";
     weatherClass.style.top = "-300px"
 }
+
+console.log('githubTest')
